@@ -1,0 +1,10 @@
+E:\PROGRAMMING\11.10\ISMDotNet2\Task9\bin\Debug\netcoreapp3.1\Task9.exe
+E:\PROGRAMMING\11.10\ISMDotNet2\Task9\bin\Debug\netcoreapp3.1\Task9.deps.json
+E:\PROGRAMMING\11.10\ISMDotNet2\Task9\bin\Debug\netcoreapp3.1\Task9.runtimeconfig.json
+E:\PROGRAMMING\11.10\ISMDotNet2\Task9\bin\Debug\netcoreapp3.1\Task9.runtimeconfig.dev.json
+E:\PROGRAMMING\11.10\ISMDotNet2\Task9\bin\Debug\netcoreapp3.1\Task9.dll
+E:\PROGRAMMING\11.10\ISMDotNet2\Task9\bin\Debug\netcoreapp3.1\Task9.pdb
+E:\PROGRAMMING\11.10\ISMDotNet2\Task9\obj\Debug\netcoreapp3.1\Task9.AssemblyInfoInputs.cache
+E:\PROGRAMMING\11.10\ISMDotNet2\Task9\obj\Debug\netcoreapp3.1\Task9.AssemblyInfo.cs
+E:\PROGRAMMING\11.10\ISMDotNet2\Task9\obj\Debug\netcoreapp3.1\Task9.dll
+E:\PROGRAMMING\11.10\ISMDotNet2\Task9\obj\Debug\netcoreapp3.1\Task9.pdb
