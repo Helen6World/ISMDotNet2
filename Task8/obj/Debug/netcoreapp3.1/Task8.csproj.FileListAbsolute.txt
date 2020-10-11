@@ -1,0 +1,11 @@
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\bin\Debug\netcoreapp3.1\Task8.exe
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\bin\Debug\netcoreapp3.1\Task8.deps.json
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\bin\Debug\netcoreapp3.1\Task8.runtimeconfig.json
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\bin\Debug\netcoreapp3.1\Task8.runtimeconfig.dev.json
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\bin\Debug\netcoreapp3.1\Task8.dll
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\bin\Debug\netcoreapp3.1\Task8.pdb
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\obj\Debug\netcoreapp3.1\Task8.csprojAssemblyReference.cache
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\obj\Debug\netcoreapp3.1\Task8.AssemblyInfoInputs.cache
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\obj\Debug\netcoreapp3.1\Task8.AssemblyInfo.cs
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\obj\Debug\netcoreapp3.1\Task8.dll
+E:\PROGRAMMING\11.10\ISMDotNet2\Task8\obj\Debug\netcoreapp3.1\Task8.pdb
